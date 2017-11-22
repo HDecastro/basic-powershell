@@ -1,0 +1,1 @@
+Get-Hotfix > C:\temp\hotfixeswithinstalldates.txt
